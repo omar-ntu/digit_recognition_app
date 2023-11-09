@@ -3,7 +3,7 @@ Built with Python, Flask, HTML, CSS, JS.
 
 Clone this repository:
 
-`git clone `
+`git clone https://github.com/omar-ntu/digit_recognition_app.git`
 
 Change to the directory and create virtual environment:
 
