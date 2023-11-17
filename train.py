@@ -8,7 +8,7 @@ from torch.utils.data import DataLoader
 
 from model import Model
 
-SAVE_MODEL_PATH = "best_accuracy.pth"
+SAVE_MODEL_PATH = "checkpoint/best_accuracy.pth"
 
 def train():
     transform = transforms.Compose([transforms.ToTensor(),
