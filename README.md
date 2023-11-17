@@ -1,6 +1,10 @@
 # Digit Recognition WebApp
 Built with Python, Flask, HTML, CSS, JS.
 
+This website is LIVE on Render: https://digit-recognition-0789.onrender.com/
+
+## Running locally
+
 Clone this repository:
 
 ```
